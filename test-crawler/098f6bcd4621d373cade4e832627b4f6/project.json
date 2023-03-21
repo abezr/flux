@@ -1,0 +1,13 @@
+{
+    "id": "098f6bcd4621d373cade4e832627b4f6",
+    "name": "test",
+    "crawlerInput": {
+        "url": "https://wimsdemo2.exprosoft.com/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
